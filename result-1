@@ -1,0 +1,10 @@
+Executing [Testing calculator sub, mult and div]
+-> When I add 4 to 5
+-> Then I expect the value 9 (success)
+-> When I multiply -6 by 20
+-> Then I expect the value -120 (success)
+-> When I subtract 1.5 to 3
+-> Then I expect the value  1.5 (success)
+-> When I divide 100 by 200
+-> Then I expect the value 0.5 (success)
+Scenario [Testing calculator sub, mult and div] ended successfully

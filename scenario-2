@@ -1,0 +1,7 @@
+Scenario: Testing operation with constants
+  Given constants:
+    | name  |  value  |
+    | pi    | 3.14159 |
+    | e     | 2.71828 |
+  When I subtract $.e to $.pi
+  Then I expect the value 0.42331

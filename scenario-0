@@ -1,0 +1,3 @@
+Scenario: Testing calculator addition
+    When I add 4 to 5
+    Then I expect the value 9

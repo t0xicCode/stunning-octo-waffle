@@ -1,0 +1,4 @@
+Executing [Testing operation with constants]
+-> When I subtract $.e to $.pi
+-> Then I expect the value 0.42331 (success)
+Scenario [Testing operation with constants] ended successfully

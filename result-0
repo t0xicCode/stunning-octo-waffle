@@ -1,0 +1,5 @@
+Executing [Testing calculator addition]
+-> When I add 4 to 5
+-> Then I expect the value 9 (success)
+Scenario [Testing calculator addition] ended successfully
+
